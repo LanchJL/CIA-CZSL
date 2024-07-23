@@ -1,6 +1,6 @@
-# Revealing the Proximate Long-Tail Distribution in Compositional Zero-Shot Learning
+# Learning Clique-based Interclass Affinity for Compositional Zero-shot Learning
 
-Codes of Revealing the Proximate Long-Tail Distribution in Compositional Zero-Shot Learning (AAAI2024)
+Codes of Learning Clique-based Interclass Affinity for Compositional Zero-shot Learning
 
 ## Prepare
 ```shell
