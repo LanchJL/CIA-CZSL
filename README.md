@@ -6,7 +6,7 @@
 ```bash
 conda create --name cia python=3.8
 conda activate cia
-conda install pytorch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0 pytorch-cuda=12.1 -c pytorch -c nvidia
+conda install pytorch==1.7.0 torchvision==0.8.0 pytorch-cuda=12.1 -c pytorch -c nvidia
 pip3 install git+https://github.com/openai/CLIP.git
 ```
 
